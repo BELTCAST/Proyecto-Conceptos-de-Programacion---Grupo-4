@@ -1,5 +1,3 @@
-CC;636123706;Luis;Garcia
-CC;510423293;Lucia;Lopez
-CC;273469538;David;Pineda
-TI;709898658;Sofia;Rodriguez
-CE;350878289;Valentina;Perez
+CC;1023456789;Ana;Gomez
+CC;1034567890;Andres;Rodriguez
+CC;1012345678;Carlos;Perez
