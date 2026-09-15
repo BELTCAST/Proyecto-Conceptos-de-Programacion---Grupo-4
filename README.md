@@ -1,6 +1,6 @@
 # Proyecto Conceptos de Programacion - Grupo-4
 
-#Integrantes:
+## Integrantes:
 - Luis Felipe Berruecos Pachon
 - Nicolas Beltran Castellanos
 
