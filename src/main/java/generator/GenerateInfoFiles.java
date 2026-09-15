@@ -1,4 +1,4 @@
-package com.proyecto.generador;
+package generator;
 
 import java.io.BufferedWriter;
 import java.io.File;
