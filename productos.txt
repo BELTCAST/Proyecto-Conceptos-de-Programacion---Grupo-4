@@ -1,0 +1,10 @@
+1;Producto_1;54234,98
+2;Producto_2;67823,53
+3;Producto_3;14989,24
+4;Producto_4;93841,27
+5;Producto_5;59919,18
+6;Producto_6;92344,96
+7;Producto_7;83612,94
+8;Producto_8;55268,75
+9;Producto_9;55100,63
+10;Producto_10;14728,21
