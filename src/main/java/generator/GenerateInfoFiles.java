@@ -14,7 +14,7 @@ import java.util.Random;
  * Grupo: G4 CFP-B03
  * @Estudiantes:
  * Nicolas beltran castellanos
- * Felipe Berruecos
+ * Luis Felipe Berruecos
  */
 public class GenerateInfoFiles {
 
